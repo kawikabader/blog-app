@@ -10,4 +10,4 @@ npm start
 
 **API**
 
-Uses `http://reduxblog.herokuapp.com/` as the backend API for creating and updating blog posts.
+Uses [http://reduxblog.herokuapp.com/](http://reduxblog.herokuapp.com/) as the backend API for creating and updating blog posts.
